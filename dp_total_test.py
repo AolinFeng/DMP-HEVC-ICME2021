@@ -241,12 +241,17 @@ if __name__ == '__main__':
     parser.add_argument('--batchSize', default=200, type=int, help='batch size')
     # parser.add_argument('--qp', default=22, type=int, help='QP')
     args = parser.parse_args()
+    
+    for dir in ["DepthFlag", "log", "output"]:
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
     qp_list = [22, 27, 32, 37]
     total_infe_time = 0
     for qp in qp_list:
         infe_time = inference_HEVC(qp)
         total_infe_time += infe_time
-    
+
     print("inference time: ", total_infe_time)
 
 

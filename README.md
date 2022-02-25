@@ -35,4 +35,4 @@ Aolin Feng, Changsheng Gao, Li Li, Dong Liu, and Feng Wu."CNN-based Depth Map Pr
 * To test a sequence:
    * Write the sequence information file strictly according to the format of existing files. Use '/' rather than '\\' in the file path.
    * Write all the names of test sequences in "Test_Sequence_List.txt".
-* In the output log file of the main code, the last line stores the network inference time, which shpuld be added to the total encoding time. 
+* In the output log file of the main python script, the last line stores the network inference time, which shpuld be added to the total encoding time. 
