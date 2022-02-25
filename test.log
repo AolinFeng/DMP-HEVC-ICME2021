@@ -1,0 +1,281 @@
+BasketballDrive
+out batch shape: torch.Size([480, 1, 8, 8])
+Cactus
+out batch shape: torch.Size([480, 1, 8, 8])
+Campfire
+out batch shape: torch.Size([1980, 1, 8, 8])
+CatRobot
+out batch shape: torch.Size([1980, 1, 8, 8])
+DaylightRoad2
+out batch shape: torch.Size([1980, 1, 8, 8])
+FoodMarket4
+out batch shape: torch.Size([1980, 1, 8, 8])
+Kimono
+out batch shape: torch.Size([480, 1, 8, 8])
+Kodak1
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak10
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak11
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak12
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak13
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak14
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak15
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak16
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak17
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak18
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak19
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak2
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak20
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak21
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak22
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak23
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak24
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak3
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak4
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak5
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak6
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak7
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak8
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak9
+out batch shape: torch.Size([96, 1, 8, 8])
+MarketPlace
+out batch shape: torch.Size([480, 1, 8, 8])
+ParkRunning3
+out batch shape: torch.Size([1980, 1, 8, 8])
+RitualDance
+out batch shape: torch.Size([480, 1, 8, 8])
+Tango2
+out batch shape: torch.Size([1980, 1, 8, 8])
+BasketballDrive
+out batch shape: torch.Size([480, 1, 8, 8])
+Cactus
+out batch shape: torch.Size([480, 1, 8, 8])
+Campfire
+out batch shape: torch.Size([1980, 1, 8, 8])
+CatRobot
+out batch shape: torch.Size([1980, 1, 8, 8])
+DaylightRoad2
+out batch shape: torch.Size([1980, 1, 8, 8])
+FoodMarket4
+out batch shape: torch.Size([1980, 1, 8, 8])
+Kimono
+out batch shape: torch.Size([480, 1, 8, 8])
+Kodak1
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak10
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak11
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak12
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak13
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak14
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak15
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak16
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak17
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak18
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak19
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak2
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak20
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak21
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak22
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak23
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak24
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak3
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak4
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak5
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak6
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak7
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak8
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak9
+out batch shape: torch.Size([96, 1, 8, 8])
+MarketPlace
+out batch shape: torch.Size([480, 1, 8, 8])
+ParkRunning3
+out batch shape: torch.Size([1980, 1, 8, 8])
+RitualDance
+out batch shape: torch.Size([480, 1, 8, 8])
+Tango2
+out batch shape: torch.Size([1980, 1, 8, 8])
+BasketballDrive
+out batch shape: torch.Size([480, 1, 8, 8])
+Cactus
+out batch shape: torch.Size([480, 1, 8, 8])
+Campfire
+out batch shape: torch.Size([1980, 1, 8, 8])
+CatRobot
+out batch shape: torch.Size([1980, 1, 8, 8])
+DaylightRoad2
+out batch shape: torch.Size([1980, 1, 8, 8])
+FoodMarket4
+out batch shape: torch.Size([1980, 1, 8, 8])
+Kimono
+out batch shape: torch.Size([480, 1, 8, 8])
+Kodak1
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak10
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak11
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak12
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak13
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak14
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak15
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak16
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak17
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak18
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak19
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak2
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak20
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak21
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak22
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak23
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak24
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak3
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak4
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak5
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak6
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak7
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak8
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak9
+out batch shape: torch.Size([96, 1, 8, 8])
+MarketPlace
+out batch shape: torch.Size([480, 1, 8, 8])
+ParkRunning3
+out batch shape: torch.Size([1980, 1, 8, 8])
+RitualDance
+out batch shape: torch.Size([480, 1, 8, 8])
+Tango2
+out batch shape: torch.Size([1980, 1, 8, 8])
+BasketballDrive
+out batch shape: torch.Size([480, 1, 8, 8])
+Cactus
+out batch shape: torch.Size([480, 1, 8, 8])
+Campfire
+out batch shape: torch.Size([1980, 1, 8, 8])
+CatRobot
+out batch shape: torch.Size([1980, 1, 8, 8])
+DaylightRoad2
+out batch shape: torch.Size([1980, 1, 8, 8])
+FoodMarket4
+out batch shape: torch.Size([1980, 1, 8, 8])
+Kimono
+out batch shape: torch.Size([480, 1, 8, 8])
+Kodak1
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak10
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak11
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak12
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak13
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak14
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak15
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak16
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak17
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak18
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak19
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak2
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak20
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak21
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak22
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak23
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak24
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak3
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak4
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak5
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak6
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak7
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak8
+out batch shape: torch.Size([96, 1, 8, 8])
+Kodak9
+out batch shape: torch.Size([96, 1, 8, 8])
+MarketPlace
+out batch shape: torch.Size([480, 1, 8, 8])
+ParkRunning3
+out batch shape: torch.Size([1980, 1, 8, 8])
+RitualDance
+out batch shape: torch.Size([480, 1, 8, 8])
+Tango2
+out batch shape: torch.Size([1980, 1, 8, 8])
+inference time:  7.436930418014526

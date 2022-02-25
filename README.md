@@ -17,24 +17,22 @@ Aolin Feng, Changsheng Gao, Li Li, Dong Liu, and Feng Wu."CNN-based Depth Map Pr
 
 ## Running Instructions
 
-1. Dependency: Pytroch, GPU (the code only can be run in GPU mode)
-2. Command: python dp_total_test.py > test.log
+* Dependency: Pytroch, GPU (the code only can be run in GPU mode)
+* Command: python dp_total_test.py > test.log
 
 ## Folder Instructions
-1. cfg: Encoding configuration file
-2. cfg/per-sequence: Sequence information file
-3. Test_Sequence_List.txt: Names of sequences to be tested, which correspond to the names of sequence information file
-4. codec: Encoder.exe + Decoder.exe
-5. models: Trained models for depth map prediction
-6. DepthFlag: Generated split flags used for encoding acceleration
-7. output: Bit stream 
-8. log: Encoding and decoding logs
+* cfg: Encoding configuration file
+* cfg/per-sequence: Sequence information file
+* Test_Sequence_List.txt: Names of sequences to be tested, which correspond to the names of sequence information file
+* codec: Encoder.exe + Decoder.exe
+* models: Trained models for depth map prediction
+* DepthFlag: Output split flags used for encoding acceleration
+* output: Output bit stream 
+* log: Output encoding and decoding logs
 
 ## Attention:
-1. The working directory mus be the current directory, and the folder names cannot be modified.
-2. To test a sequence:
-
-   2.1 Write the sequence information file strictly according to the format of existing files. Use '/' rather than '\\' in the file path.
-  
-   2.2 Write all the names of test sequences in "Test_Sequence_List.txt".
-3. In the output log file of the main code, the last line stores the network inference time, which shpuld be added to the total encoding time. 
+* The working directory mus be the current directory, and the folder names cannot be modified.
+* To test a sequence:
+   * Write the sequence information file strictly according to the format of existing files. Use '/' rather than '\\' in the file path.
+   * Write all the names of test sequences in "Test_Sequence_List.txt".
+* In the output log file of the main code, the last line stores the network inference time, which shpuld be added to the total encoding time. 
